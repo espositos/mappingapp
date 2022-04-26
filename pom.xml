@@ -8,14 +8,17 @@
 		<version>2.6.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+
 	<groupId>espositos.github</groupId>
 	<artifactId>mappingapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mappingapp</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Creating a mapping application</description>
+
 	<properties>
 		<java.version>18</java.version>
 	</properties>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
